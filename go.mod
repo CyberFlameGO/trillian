@@ -19,21 +19,21 @@ require (
 	github.com/google/go-licenses v0.0.0-20210329231322-ce1d9163b77d
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/letsencrypt/pkcs11key/v4 v4.0.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/pseudomuto/protoc-gen-doc v1.4.1
-	go.etcd.io/etcd/client/v3 v3.5.0
-	go.etcd.io/etcd/etcdctl/v3 v3.5.0
-	go.etcd.io/etcd/server/v3 v3.5.0
-	go.etcd.io/etcd/v3 v3.5.0
+	go.etcd.io/etcd/client/v3 v3.5.5
+	go.etcd.io/etcd/etcdctl/v3 v3.5.5
+	go.etcd.io/etcd/server/v3 v3.5.5
+	go.etcd.io/etcd/v3 v3.5.5
 	go.opencensus.io v0.23.0
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
+	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 	golang.org/x/tools v0.1.5
 	google.golang.org/api v0.52.0
 	google.golang.org/genproto v0.0.0-20210722135532-667f2b7c528f
-	google.golang.org/grpc v1.39.0
+	google.golang.org/grpc v1.41.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.27.1
 )
